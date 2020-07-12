@@ -1,6 +1,9 @@
 # I-Want-To-Jump-Higher
 A short, cute platformer made with PICO-8 inspired by Celeste Classic.  
   
+Q: Who made this?  
+A: me
+  
 Q: When was this game made?  
 A: Made sometime during the spring of 2020.  
   
